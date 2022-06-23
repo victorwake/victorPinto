@@ -4,8 +4,8 @@
 
 <p align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=cecihansen&hide=stars&show_icons=true&theme=dracula&line_height=32">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cecihansen&count_private=true&theme=dracula">
+  <img src="https://github-readme-stats.vercel.app/api?username=victorwake&hide=stars&show_icons=true&theme=dracula&line_height=32">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorwake&count_private=true&theme=dracula">
 
 </p>
 
