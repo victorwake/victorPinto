@@ -1,4 +1,5 @@
-# VictorPinto
+# Hi everyone, I´m Victor Pinto!
+### I'm a Full Stack Web Developer student* 
 
 **Github Stats:**
 
