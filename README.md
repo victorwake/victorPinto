@@ -1,6 +1,14 @@
 # Hi everyone, I´m Victor Pinto!
 ### I'm a Full Stack Web Developer student* 
 
+# I am really passionate about this:
+- 💬 Some words that describe me: Intuition, curiosity, research, perseverance, patience, problem solving, adaptability to changes,.
+- 🎯 Learn new things
+- 😃 Meet new people
+- 🚀 The changes
+- 🌱 Be in contact with nature and everything that has to do with reducing our impact on it
+- 👯 Work in a team and collaborative
+
 **Github Stats:**
 
 <p align="center">
