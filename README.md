@@ -21,7 +21,7 @@
 ## ⚡Languages:
 
 - 🌐 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=javas)
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![spring](https://img.shields.io/badge/-Spring-333333?style=flat&logo=spring)
   ![mysql](https://img.shields.io/badge/-Mysql-333333?style=flat&logo=mysql)
