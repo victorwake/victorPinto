@@ -1,5 +1,5 @@
 # Hi everyone, I´m Victor Pinto!
-### I'm a Full Stack Web Developer student* 
+### I'm a Full Stack Web Developer* 
 
 # About me:
 - 💬 Some words that describe me: Intuition, curiosity, research, perseverance, patience, problem solving, adaptability to changes,.
